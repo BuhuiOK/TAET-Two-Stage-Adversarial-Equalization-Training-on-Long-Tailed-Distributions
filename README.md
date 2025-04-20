@@ -73,7 +73,7 @@ Our code implementation is based on the repositories from [AT-BSL](https://githu
 
 ## Contact
 
-If you have any question, please email `wangyuhang@mail.hfut.edu.cn`.
+If you have any question, please email `wangyuhang@mail.hfut.edu.cn`and`wangkaihao500@gmail.com`.
 
 ## Citation
 
